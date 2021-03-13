@@ -55,6 +55,18 @@ I was also responsible to support other summer interns with quantitative analysi
 **Pluton commander**, *Air Defence Regiment*, Halmstad, Sweden.  
 Commanding officer for a plattoon of 47 soldiers responsible for establishing and managing a battalion command centre within the Swedish Air defence.
 
+## Memberships
+
+`2000-present`
+**Mensa Sweden**
+
+
+## Languages
+
+Native: Swedish
+
+Fluent: English
+
 <!-- ### Footer
 
 Last updated: March 2021 -->
