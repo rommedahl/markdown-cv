@@ -6,8 +6,8 @@ title: Marcus Rommedahl's CV
 Analyst, Computer Scientist, Economist, Mathematician
 
 <div id="webaddress">
-  <a href="https://rommedahl.net/contact">Contact Page</a>
-  <a href="https://www.linkedin.com/in/rommedahl/">LinkedIn Profile</a>
+ <a href="https://rommedahl.net/contact">Contact Page</a>
+| <a href="https://www.linkedin.com/in/rommedahl/">LinkedIn Profile</a>
 </div>
 
 ## Currently
