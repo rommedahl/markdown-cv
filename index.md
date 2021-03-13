@@ -35,24 +35,24 @@ Currently employed as a Credit Risk Analyst at Entercard Group and extending my 
 ## Experience
 
 `2017-present`
-**Credit Risk Analyst**, *Credit Risk Department, Entercard Group*, Stockholm, Sweden.
+**Credit Risk Analyst**, *Credit Risk Department, Entercard Group*, Stockholm, Sweden.  
 Owner of KPI production and organizer of the KPI review meetings. 
 Production and analysis of reports to support the management in their assessment of the credit risk situation of the company.
 Development of internal software and processes in the production of reports and analytics insights.
 
 `2013-2017`
-**Junior Economist**, *Monetary Policy Department, Sveriges riksbank*, Stockholm, Sweden.
+**Junior Economist**, *Monetary Policy Department, Sveriges riksbank*, Stockholm, Sweden.  
 Policy work at the Modelling Division where I produced forecasts, scenarios and visualization of data to be presented to the monetary policy board and for publication in the monetary policy report.
 I was also involved in the development and maintenance of internal software tools and packages for wide use throughout the department.
 
 `2012, 2013`
-**Research Intern**, *Ratio*, Stockholm, Sweden.
+**Research Intern**, *Ratio*, Stockholm, Sweden.  
 Ratio is an institute that researches private enterprise conditions.
 During two summers I researched Swedish exports using micro data to connect tarrifs, and I and gathered estimates on the effects of foreign direct investment in China for a meta-research project.
 I was also responsible to support other summer interns with quantitative analysis and coding.
 
 `2003-2004`
-**Pluton commander**, *Air Defence Regiment*, Halmstad, Sweden.
+**Pluton commander**, *Air Defence Regiment*, Halmstad, Sweden.  
 Commanding officer for a plattoon of 47 soldiers responsible for establishing and managing a battalion command centre within the Swedish Air defence.
 
 <!-- ### Footer
