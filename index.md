@@ -1,91 +1,62 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Marcus Rommedahl's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Marcus Rommedahl
+Analyst, Computer Scientist, Economist, Mathematician
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://rommedahl.net/contact">Contact Page</a>
+  <a href="https://www.linkedin.com/in/rommedahl/">LinkedIn Profile</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Currently employed as a Credit Risk Analyst at Entercard Group and extending my skillset studying Mathematics and Computer Science at Stockholm University.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016–present`
+**Studies in Mathematics and Computer Science**, *Stockholm University*, Stockholm, Sweden.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2011–2013`
+**MSc in Business and Economics**, *Stockholm School of Economics*, Stockholm, Sweden.
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2008–2011`
+**BSc in Economics**, *Stockholm University*, Stockholm, Sweden.
 
 
+## Theses
 
-## Awards
+[**The 2010 Grexit - A counterfactual analysis using a Global VAR**](http://arc.hhs.se/download.aspx?MediumId=2831), *2016, Stockholm School of Economics*, Stockholm, Sweden.
 
-`2012`
-President, *Royal Society*, London, UK
+[**The impact of EMU on budget deficits**](https://sourceforge.net/p/emumoralhazard/code/ci/master/tree/paper.pdf?format=raw), *2011, Stockholm University*, Stockholm, Sweden.
 
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
+`2017-present`
+**Credit Risk Analyst**, *Credit Risk Department, Entercard Group*, Stockholm, Sweden.
+Owner of KPI production and organizer of the KPI review meetings. 
+Production and analysis of reports to support the management in their assessment of the credit risk situation of the company.
+Development of internal software and processes in the production of reports and analytics insights.
 
+`2013-2017`
+**Junior Economist**, *Monetary Policy Department, Sveriges riksbank*, Stockholm, Sweden.
+Policy work at the Modelling Division where I produced forecasts, scenarios and visualization of data to be presented to the monetary policy board and for publication in the monetary policy report.
+I was also involved in the development and maintenance of internal software tools and packages for wide use throughout the department.
 
-## Publications
+`2012, 2013`
+**Research Intern**, *Ratio*, Stockholm, Sweden.
+Ratio is an institute that researches private enterprise conditions.
+During two summers I researched Swedish exports using micro data to connect tarrifs, and I and gathered estimates on the effects of foreign direct investment in China for a meta-research project.
+I was also responsible to support other summer interns with quantitative analysis and coding.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2003-2004`
+**Pluton commander**, *Air Defence Regiment*, Halmstad, Sweden.
+Commanding officer for a plattoon of 47 soldiers responsible for establishing and managing a battalion command centre within the Swedish Air defence.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2021 -->
 
 
