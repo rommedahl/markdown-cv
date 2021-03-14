@@ -59,7 +59,7 @@ I was also responsible to support other summer interns with quantitative analysi
 Commanding officer for a plattoon of 47 soldiers responsible for establishing and managing a battalion command centre within the Swedish Air defence.
 
 ## Computer Skills
-I have a strong and intrinsic interest and belief in data enginnering and data science and how it can create value in production and used for scalabale high-quality analytics.
+I have a strong and intrinsic interest and belief in data enginnering and data science and how it can create value in production and used for scalable high-quality analytics.
 
 **Selected skills:** Bash, Excel, Linux, Matlab, Python, R, SAS, SQL, Windows
 
