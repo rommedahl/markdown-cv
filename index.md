@@ -8,6 +8,7 @@ Analyst, Computer Scientist, Economist, Mathematician
 <div id="webaddress">
  <a href="https://rommedahl.net/contact">Contact Page</a>
 | <a href="https://www.linkedin.com/in/rommedahl/">LinkedIn Profile</a>
+| +46 722 464 483
 </div>
 
 ## Currently
@@ -25,6 +26,8 @@ Currently employed as a Credit Risk Analyst at Entercard Group and extending my 
 `2008–2011`
 **BSc in Economics**, *Stockholm University*, Stockholm, Sweden.
 
+`1999–2002`
+**Natural Science Program**, *Sundsta-Älvkullegymnasiet*, Karlstad, Sweden.
 
 ## Theses
 
@@ -55,11 +58,15 @@ I was also responsible to support other summer interns with quantitative analysi
 **Pluton commander**, *Air Defence Regiment*, Halmstad, Sweden.  
 Commanding officer for a plattoon of 47 soldiers responsible for establishing and managing a battalion command centre within the Swedish Air defence.
 
+## Computer Skills
+I have a strong and intrinsic interest and belief in data enginnering and data science how it can be used in to create value in production and used for scalabale high-quality analytics.
+
+Bash, Excel, Linux, Python, R, SQL, Windows
+
 ## Memberships
 
 `2000-present`
 **Mensa Sweden**
-
 
 ## Languages
 
@@ -70,5 +77,3 @@ Fluent: English
 <!-- ### Footer
 
 Last updated: March 2021 -->
-
-
