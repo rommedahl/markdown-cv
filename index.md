@@ -70,6 +70,8 @@ I have a strong and intrinsic interest and belief in data enginnering and data s
 
 ## Languages
 
+In my career I have worked in workplaces with English as the primary language for written and oral communication.
+
 Native: Swedish
 
 Fluent: English
