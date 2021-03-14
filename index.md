@@ -51,7 +51,7 @@ I was also involved in the development and maintenance of internal software tool
 `2012, 2013`
 **Research Intern**, *Ratio*, Stockholm, Sweden.  
 Ratio is an institute that researches private enterprise conditions.
-During two summers I researched Swedish exports using micro data to connect tarrifs, and I and gathered estimates on the effects of foreign direct investment in China for a meta-research project.
+During two summers I produced data for a research project by connecting micro-data on Swedish exports to corresponding tarriffs, and I gathered estimates on the effects of foreign direct investment in China in a meta-research project.
 I was also responsible to support other summer interns with quantitative analysis and coding.
 
 `2003-2004`
