@@ -71,10 +71,10 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 70%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #ccc;
 }
 
 p code {
@@ -164,9 +164,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #aaa;
+	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 90%;
 }
 
 #webaddress a {
