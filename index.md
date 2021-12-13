@@ -6,14 +6,13 @@ title: Marcus Rommedahl's CV
 Analyst, Computer Scientist, Economist, Mathematician
 
 <div id="webaddress">
- <a href="https://rommedahl.net/contact">Contact Page</a>
-| <a href="https://www.linkedin.com/in/rommedahl/">LinkedIn Profile</a>
-| +46 722 464 483
+<a href="https://www.linkedin.com/in/rommedahl/">LinkedIn Profile</a>
+| +46 705 437 646
 </div>
 
 ## Currently
 
-Currently employed as a Credit Risk Analyst at Entercard Group and extending my skillset studying Mathematics and Computer Science at Stockholm University.
+Researching how graph structures can be used in Customer Journey Analytics to detect sets of Customer paths, and build insights of the customers experience and behavior.
 
 ## Education
 
@@ -37,7 +36,13 @@ Currently employed as a Credit Risk Analyst at Entercard Group and extending my 
 
 ## Experience
 
-`2017-present`
+`2021`
+**Data Scientist**, *Product Analytics, Trustly Group*, Stockholm, Sweden.  
+Employed in the Product Analytics team to develop metrics, frameworks and tools for customer analysis.
+Researched data to find best practices to identify end-users and proper metrics.
+Developed Recency-Frequency models to segment users over time, and built a data driven framework for Cohort analysis and Customer Lifetime Value assessments.
+
+`2017-2021`
 **Credit Risk Analyst**, *Credit Risk Department, Entercard Group*, Stockholm, Sweden.  
 Owner of KPI production and organizer of the KPI review meetings. 
 Production and analysis of reports to support the management in their assessment of the credit risk situation of the company.
@@ -78,4 +83,4 @@ Fluent: English
 
 <!-- ### Footer
 
-Last updated: March 2021 -->
+Last updated: December 2021 -->
