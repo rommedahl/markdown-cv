@@ -6,7 +6,8 @@ title: Marcus Rommedahl's CV
 Analyst, Computer Scientist, Economist, Mathematician
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/rommedahl/">LinkedIn Profile</a>
+<a href="https://rommedahl.github.io/markdown-cv/">This CV online</a>
+| <a href="https://www.linkedin.com/in/rommedahl/">LinkedIn Profile</a>
 | +46 705 437 646
 </div>
 
