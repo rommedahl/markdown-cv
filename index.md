@@ -66,7 +66,7 @@ Commanding officer for a plattoon of 47 soldiers responsible for establishing an
 ## Computer Skills
 I have a strong and intrinsic interest and belief in data engineering and data science and how it can create value in production and used for scalable high-quality analytics.
 
-**Selected skills:** Bash, Excel, Linux, Matlab, Python, R, SAS, SQL, Windows
+**Selected skills:** Bash, BigQuery, dbt, Excel, GCP, Linux, Matlab, Python, R, SAS, SQL, Windows
 
 ## Memberships
 
