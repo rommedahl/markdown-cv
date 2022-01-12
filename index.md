@@ -17,7 +17,7 @@ Researching how graph structures can be used in Customer Journey Analytics to de
 
 ## Education
 
-`2016–present`
+`2016–2020`
 **Studies in Mathematics and Computer Science**, *Stockholm University*, Stockholm, Sweden.
 
 `2011–2013`
