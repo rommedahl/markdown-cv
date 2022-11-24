@@ -37,6 +37,12 @@ Researching how graph structures can be used in Customer Journey Analytics to de
 
 ## Experience
 
+`2022`
+**Data Scientist**, *CRM and Analytics, Åhléns*, Stockholm, Sweden.
+Main responsible for promotion modelling to evaluate effect on sales.
+Developed a model to predict underperforming items so the business early can take action to improve sales.
+Built a plattform to sell insights to suppliers that also became an appreciated tool in-house.
+
 `2021`
 **Data Scientist**, *Product Analytics, Trustly Group*, Stockholm, Sweden.  
 Employed in the Product Analytics team to develop metrics, frameworks and tools for customer analysis.
@@ -67,7 +73,7 @@ Commanding officer for a plattoon of 47 soldiers responsible for establishing an
 ## Computer Skills
 I have a strong and intrinsic interest and belief in data engineering and data science and how it can create value in production and used for scalable high-quality analytics.
 
-**Selected skills:** Bash, BigQuery, dbt, Excel, GCP, Linux, Matlab, Python, R, SAS, SQL, Windows
+**Selected skills:** Bash, BigQuery, Databricks, dbt, Excel, GCP, Linux, Matlab, Power BI, Python, R, SAS, SQL, Windows
 
 ## Memberships
 
