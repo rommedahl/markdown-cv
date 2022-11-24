@@ -38,7 +38,7 @@ Researching how graph structures can be used in Customer Journey Analytics to de
 ## Experience
 
 `2022`
-**Data Scientist**, *CRM and Analytics, Åhléns*, Stockholm, Sweden.
+**Data Scientist**, *CRM and Analytics, Åhléns*, Stockholm, Sweden.  
 Main responsible for promotion modelling to evaluate effect on sales.
 Developed a model to predict underperforming items so the business early can take action to improve sales.
 Built a plattform to sell insights to suppliers that also became an appreciated tool in-house.
