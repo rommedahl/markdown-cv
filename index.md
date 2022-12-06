@@ -13,7 +13,7 @@ Analyst, Computer Scientist, Economist, Mathematician
 
 ## Currently
 
-Researching how graph structures can be used in Customer Journey Analytics to detect sets of Customer paths, and build insights of the customers experience and behavior.
+Working on Machine Learning Models to analyze and improve the Retail Business.
 
 ## Education
 
