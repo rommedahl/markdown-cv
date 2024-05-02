@@ -37,7 +37,7 @@ Working on Machine Learning Models to analyze and improve the Retail Business.
 
 ## Experience
 
-`2022`
+`2022-2023`
 **Data Scientist**, *CRM and Analytics, Åhléns*, Stockholm, Sweden.  
 Main responsible for promotion modelling to evaluate effect on sales.
 Developed a model to predict under-performing items so the business early can take action to improve sales.
